@@ -20,7 +20,7 @@ class ModoFor
 
                 try
                 {
-                    Convert.ToInt32(strDecimal);
+                    intDecimal = Convert.ToInt32(strDecimal);
                 }
                 catch
                 {
